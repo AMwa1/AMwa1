@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AMwa1
 - I do things.
-- I use C#, C/C++, JS, Assembly(with MASM), and Lua. There's more but I those are all you really need to know.
+- I use C#, C/C++, JS, and MASM because I'm boring. There's kind-of more but I those are all you really need to know.
