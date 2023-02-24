@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @AMwa1
 - I use C#, C/C++, JS/TS, and some(very little) assembly.
-- I know how to do things I just don't know what to do please help.
